@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  section {
+    width: 45%;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+  }
